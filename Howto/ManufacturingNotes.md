@@ -1,4 +1,4 @@
-Manufacturing Notes for LM135 PiHat
+**Manufacturing Notes for LM135 PiHat**
 
 A step by step process of manufacturing your own LM135 tempreture sensor PiHat
 
